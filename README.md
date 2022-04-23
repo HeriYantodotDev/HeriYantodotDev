@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tukang-logika / Heri Yanto
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Django, CSS, JavaScript
+- 🌱 I’m currently learning Python, Django, CSS, JavaScript, Node.JS, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : twitter @tukang_logika
 - 
