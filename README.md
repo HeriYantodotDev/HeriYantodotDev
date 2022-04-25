@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tukang-logika / Heri Yanto
 - 👀 I’m interested in Full Stack Web Development
-- 📖 I'm currently relearning programming : Python, Django, CSS, JavaScript, Node.JS, React
+- 📖 I'm currently relearning programming : Python, Django, CSS, JavaScript, Node.JS, React, Bootstrap
 - 🧑‍🏭 I'm working in a BPO company
 - 📫 How to reach me : twitter @tukang_logika. 🤝 Let's connect
 <!---
