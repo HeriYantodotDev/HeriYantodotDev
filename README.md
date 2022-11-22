@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Currently, I work as a Delivery Manager in the customer service industry, leading 40+ Customer Service agents and several team leaders. I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The detail is on the Git Hub Project & Twitter. Wish me luck!
+Currently, I work as a Delivery Manager in the customer service industry, leading 40+ Customer Service agents and several team leaders. I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The detail is on the [GitHub Project](https://github.com/users/tukang-logika/projects/3) & [Twitter](https://twitter.com/search?q=%23100daysofCode%20%40tukang_logika). Wish me luck!
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [heriyanto.dev](http://heriyanto.dev)
