@@ -12,7 +12,7 @@ Currently, I work as a Delivery Manager in the customer service industry, leadin
 * 🚀  I'm currently working on [#100DaysofCode](http://heriyanto.dev)
 * 🧠  I'm learning React.js, Express.js, and much more.
 * 🤝  I'm open to collaborating on JavaScript Projects
-* ⚡  I have a CS degree, lol 😂. I graduated from college in 2009 and never touched Coding again till 2022. Long story, but I’m back in the tech industry.
+* ⚡  I have a CS degree, (But I'm relearning programming lol 😂). Long story ... I graduated from college in 2009 and never touched Coding again till 2022, but I’m back in the tech industry.
 
 ### Skills
 
