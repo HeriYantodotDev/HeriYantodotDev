@@ -46,9 +46,9 @@ Currently, I work as a Delivery Manager in the customer service industry, leadin
 
 <b>Coding Activity</b>
 
-<a href="https://wakatime.com"><img  style="width: 50%; height: 50%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/8cb547a5-fc07-4025-bdf0-dea4553c8e3c.png" /></a>
+<a href="https://github.com/HeriYantodotDev"><img  style="width: 70%; height: 70%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/8cb547a5-fc07-4025-bdf0-dea4553c8e3c.png" /></a>
 
-<a href="https://wakatime.com"><img style="width: 50%; height: 50%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/e8bca549-7eae-420b-b9f9-3c7922e4884b.png" /></a>
+<a href="https://github.com/HeriYantodotDev"><img style="width: 70%; height: 70%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/e8bca549-7eae-420b-b9f9-3c7922e4884b.png" /></a>
 
 
 
