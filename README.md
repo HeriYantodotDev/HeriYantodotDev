@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The detail is on the [GitHub Project](https://github.com/users/HeriYantodotDev/projects/3) & [Twitter]([https://twitter.com/HeriYantodotDev](https://twitter.com/search?q=%23100DaysOfCode%20%40HeriYantodotDev&src=typed_query&f=live)). Wish me luck!
+I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The detail is on the [GitHub Project](https://github.com/users/HeriYantodotDev/projects/3) & [Twitter](https://twitter.com/search?q=%23100DaysOfCode%20%40HeriYantodotDev&src=typed_query&f=live). Wish me luck!
 
 Currently, I work as a Delivery Manager in the customer service industry, leading 40+ Customer Service agents and several team leaders.
 
