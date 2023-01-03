@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Heri Yanto
 ==================================================================================================================================
 
-Web Developer
+👨🏻‍💻Web Developer
 -------------
 
 I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The details are on the [GitHub Project](https://github.com/users/HeriYantodotDev/projects/3) & [Twitter](https://twitter.com/search?q=%23100DaysOfCode%20%40HeriYantodotDev&src=typed_query&f=live). Wish me luck!
@@ -15,7 +15,7 @@ Currently, I work as a Delivery Manager in the customer service industry, leadin
 * 🤝  I'm open to collaborating on JavaScript Projects
 * ⚡  I have a CS degree, (But I'm relearning programming lol joy). Long story ... I graduated from college in 2009 and never touched Coding again till 2022, but I’m back in the tech industry.
 
-### Skills
+### 🧙 Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -31,11 +31,11 @@ Currently, I work as a Delivery Manager in the customer service industry, leadin
 </p>
 
 
-### Socials
+### 🌟 Socials
 
 <p align="left"> <a href="https://discord.com/users/HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="" height="32" /></a> <a href="https://www.youtube.com/@HeriYantodotDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+### 💫 Badges
 
 <b>My GitHub Stats</b>
 
