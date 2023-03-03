@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 👨🏻‍💻Web Developer
 -------------
+👨‍💻Full-stack developer with a focus on 🔍JavaScript, 🦕TypeScript, 🚀Node.js, 🚂Express.js, ⚛️React.js, and 🐘PostgreSQL. Embracing 🧪TDD and eager to share my learning journey. Let's 🤝connect and 🚀grow together!"
 
 I spend my free time learning about Web Development and working on several projects. I’m on the #100DaysofCode challenge. The details are on the [GitHub Project](https://github.com/users/HeriYantodotDev/projects/3) & [Twitter](https://twitter.com/search?q=%23100DaysOfCode%20%40HeriYantodotDev&src=typed_query&f=live). Wish me luck!
 
