@@ -12,11 +12,11 @@ Let's 🤝connect and 🚀grow together!"
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [heriyanto.dev](http://heriyanto.dev)
 * ✉️  You can contact me at [hello@heriyanto.dev](mailto:hello@heriyanto.dev)
-* 📅  I spend my free time learning about Web Development and working on several projects
+* 📅  I spend my free time learning about Web Development and working on several projects
 * 🧠  I'm learning TypeScript, React.js, Node.js, and much more
 * 🤝  I'm open to collaborating on JavaScript or TypeScript Projects
-* 🏃🏻  I have a CS degree, (But I'm relearning programming 🤣🤣. Long story ... I graduated from college in 2009 and never touched Coding again till 2022, but I’m back in the tech industry
-* 👷🏻‍  Currently, I work as a delivery manager in a business process outsourcing company
+* 🏃🏻  I have a CS degree, (But I'm relearning programming 🤣🤣. Long story ... I graduated from college in 2009 and never touched Coding again till 2022, but I’m back in the tech industry
+* 👷🏻‍  Currently, I work as a delivery manager in a business process outsourcing company
 
 ### 🧙 Skills
 
