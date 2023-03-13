@@ -62,9 +62,11 @@ Let's 🤝connect and 🚀grow together!"
 
 <b>Coding Activity</b>
 
-<a href="https://github.com/HeriYantodotDev"><img  style="width: 70%; height: 70%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/8cb547a5-fc07-4025-bdf0-dea4553c8e3c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/57e2edd2-4652-4c9c-ae06-cefe4e3debcc.png" /></a>
 
-<a href="https://github.com/HeriYantodotDev"><img style="width: 70%; height: 70%" src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/e8bca549-7eae-420b-b9f9-3c7922e4884b.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/c123875b-33c7-4f3a-850e-4c46d81d875d.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/78d2812c-8c9d-491a-bc97-2dcd49a2cfa8.png" /></a>
 
 ### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=HeriYantodotDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
