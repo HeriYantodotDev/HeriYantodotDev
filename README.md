@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------
 👨‍💻Full-stack developer with a focus on 🔍JavaScript, 🦕TypeScript, 🚀Node.js, 🚂Express.js, ⚛️React.js, and 🐘PostgreSQL. Embracing 🧪TDD and eager to share my learning journey. 
 
+[![wakatime](https://wakatime.com/badge/user/cc7de5f1-455d-4036-a6ee-2c31c05424ce.svg)](https://wakatime.com/@cc7de5f1-455d-4036-a6ee-2c31c05424ce)
+
 I'm continuously building projects, learning new coding skills, and sharing my journey on [Twitter](https://twitter.com/HeriYantodotDev), [GitHub](https://github.com/HeriYantodotDev/HeriYantodotDev), and [My blog](https://www.heriyanto.dev/). Follow me for insights, tips, and updates on my progress. Let's collaborate and create something amazing together!
 
 "Building the web, one React Node at a time."
