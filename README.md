@@ -56,11 +56,6 @@ Let's 🤝connect and 🚀grow together!"
 
 <a href="http://www.github.com/HeriYantodotDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HeriYantodotDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--
-<a href="http://www.github.com/HeriYantodotDev"><img src="https://activity-graph.herokuapp.com/graph?username=HeriYantodotDev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/HeriYantodotDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeriYantodotDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
-
 <b>Coding Activity</b>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/57e2edd2-4652-4c9c-ae06-cefe4e3debcc.png" /></a>
@@ -68,9 +63,6 @@ Let's 🤝connect and 🚀grow together!"
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/c123875b-33c7-4f3a-850e-4c46d81d875d.png" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cc7de5f1-455d-4036-a6ee-2c31c05424ce/78d2812c-8c9d-491a-bc97-2dcd49a2cfa8.png" /></a>
-
-### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=HeriYantodotDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
